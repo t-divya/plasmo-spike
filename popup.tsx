@@ -1,5 +1,6 @@
-import { useState } from "react"
 import App from "~App";
+import { createContext, useContext } from "react";
+
 function IndexPopup() {
   return (
     <div>
